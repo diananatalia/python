@@ -1,4 +1,5 @@
-# python
-just tester
+Learning by Doing
 
-1+2
+Pyhton Jupyter Notebook
+ :)
+
