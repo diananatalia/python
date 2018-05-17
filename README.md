@@ -1,5 +1,5 @@
 Learning by Doing
 
-Pyhton Jupyter Notebook
+Python - Jupyter Notebook
  :)
 
